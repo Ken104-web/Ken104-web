@@ -1,5 +1,4 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-![web-design-modern-web-gif](https://github.com/Ken104-web/Ken104-web/assets/134935720/312c4930-6c1d-49be-8e12-05d0f1edfaf2.gif)
 
 
 <h1 align="center">Hi 👋, I'm Kenneth Warui</h1>
