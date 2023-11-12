@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kenneth Warui</h1>
 <h3 align="center">A passionate full stack developer from Kenya</h3>
-
+<div class="tenor-gif-embed" data-postid="13307647" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647">Soulja Boy Pepe Sticker</a>from <a href="https://tenor.com/search/soulja+boy-stickers">Soulja Boy Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@kennethwarui35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kennethwarui35" height="30" width="40" /></a>
