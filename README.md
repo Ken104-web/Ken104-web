@@ -91,15 +91,9 @@
     </td>
     </td>
     <td>
-      <a align="center" href="https://github.com/Ken104-web"><img alt="Kenneth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken104-web&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+      <a align="center" href="https://github.com/Ken104-web" style="width: 100%"><img alt="Kenneth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken104-web&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
       </tr>
       </table>
-
-<br/>  
-
-<br/>  
-
-<br />
 
 ----
