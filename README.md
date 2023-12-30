@@ -80,11 +80,22 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken104-web&hide_border=true&layout=compact" align="center" /></div>  
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Ken104-web"><img alt="Kenneths' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ken104-web&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
+    </td>
+    <td>
+       <a href="http://www.github.com/Ken104-web"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ken104-web&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    </td>
+    <td>
+      <a align="center" href="https://github.com/Ken104-web"><img alt="Kenneth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken104-web&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+      </tr>
+      </table>
 <br/>  
   
-
 <br/>  
 
   
