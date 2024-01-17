@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to javascript languages, libraries and frameworks such as reactjs and Nextjs, Python, Sql and Flask technologies.   
   
 
-- 🌱 I’m currently learning Nexjs and Graphql  
+- 🌱 I’m currently learning Nexjs,Graphql and neovim
   
 
 <br/>  
