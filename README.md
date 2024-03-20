@@ -15,6 +15,9 @@
 
 <br/>  
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ken104-web&label=Profile%20views&color=0e75b6&style=flat" alt="Ken104-web" /> </p>
+
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
