@@ -9,13 +9,9 @@
 
 - ❓ Ask me about anything related to javascript languages, libraries and frameworks such as reactjs and Nextjs, Python, Sql and Flask technologies.   
   
-
-- 🌱 I’m currently learning Nexjs,Graphql and neovim
   
 
 <br/>  
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ken104-web&label=Profile%20views&color=0e75b6&style=flat" alt="Ken104-web" /> </p>
 
 
 
