@@ -2,15 +2,14 @@
 
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">
- I'm Kenneth Warui</h1> <br><br>
+ I'm Kenneth Warui</h1> 
+
 
 - A  full-stack  developer 👨‍💻 based in Kenya 🚀 with a passion for engaging in innovative solutions 
-  
 
 - ❓ Ask me about anything related to javascript languages, libraries and frameworks such as reactjs and Nextjs, Python, Sql and Flask technologies.   
-  
-  
 
+  
 <br/>  
 
 
