@@ -1,10 +1,10 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 
-<h1 align="center">Hi 👋, I'm Kenneth Warui</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">
+ I'm Kenneth Warui</h1> <br><br>
 
-
-- A  full-stack  developer 👨‍💻 based in Kenya 🚀 with a passion for engaging in innovative solutions  
+- A  full-stack  developer 👨‍💻 based in Kenya 🚀 with a passion for engaging in innovative solutions 
   
 
 - ❓ Ask me about anything related to javascript languages, libraries and frameworks such as reactjs and Nextjs, Python, Sql and Flask technologies.   
@@ -15,7 +15,8 @@
 
 
 
-## My Skill Set  
+## My  Skill Set <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> 
+<br><br>
 <table><tr><td valign="top" width="33%">
 
 
