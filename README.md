@@ -5,4 +5,4 @@
  
 | Stats | Streak | Top Languages |
 |-------|--------|---------------|
-| ![](https://github-readme-stats.vercel.app/api?username=Ken104-web&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ken104-web&theme=vue-dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=Ken104-web&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api?username=Ken104-web&theme=gruvbox&show_icons=true&hide_border=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ken104-web&theme=gruvbox&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=Ken104-web&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
